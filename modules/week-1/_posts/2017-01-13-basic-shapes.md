@@ -170,7 +170,7 @@ This example places the first point on the line at x-coordinate 30 and y-coordin
 <div id="ToDo" class="tabcontent">
 <div class="tabhtml" markdown="1">
 
-<p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="js,result" data-slug-hash="GRMwwpL" data-editable="true" data-user="retrog4m3r" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+<p class="codepen" data-height="600" data-theme-id="dark" data-default-tab="js,result" data-slug-hash="GRMwwpL" data-editable="true" data-user="retrog4m3r" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
   <span>See the Pen <a href="https://codepen.io/retrog4m3r/pen/GRMwwpL">
   p5.js Basic Shapes</a> by Michael Cassens (<a href="https://codepen.io/retrog4m3r">@retrog4m3r</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
