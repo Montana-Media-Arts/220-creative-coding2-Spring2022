@@ -26,7 +26,7 @@ By "watching" the course repository you will be get notifications about new issu
 
 To watch the course repo;
 
-- Navigate to [https://github.com/Montana-Media-Arts/220_CreativeCoding2-Spring2021-Samples/issues](https://github.com/Montana-Media-Arts/220_CreativeCoding2-Spring2021-Samples/issues). This issues forum for this site is also linked to from the "Issues-Forum" tab above in the navbar.
+- Navigate to [Samples website](https://github.com/Montana-Media-Arts/220_CreativeCoding2-Spring2022-Samples/issues). This issues forum for this site is also linked to from the "Issues-Forum" tab above in the navbar.
 - In the upper right-hand corner, you should select both "watching" and "star".
     - This will allow GitHub to e-mail you about notifications and issues in the course repo.
         - When you have problems, post them here.
@@ -38,7 +38,7 @@ To watch the course repo;
 
 <div id="Issues" class="tabcontent" markdown="1">
 
-To create or respond to an issue, open the repo ["Issues Forum"](https://github.com/Montana-Media-Arts/220_CreativeCoding2-Spring2021-Samples/issues).
+To create or respond to an issue, open the repo ["Issues Forum"](https://github.com/Montana-Media-Arts/220_CreativeCoding2-Spring2022-Samples/issues).
 
 There you can search open issues to try and;
 

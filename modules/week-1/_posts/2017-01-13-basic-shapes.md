@@ -6,7 +6,7 @@ jotted: false
 
 ## Review p5.js Basic Shapes
 
-Remember, drawing simple shapes is the first thing that p5.js allows us to do quickly. You can do this using the p5.js editor or you an create a page a sketch file. If you need a refresher, please feel free to go back to <a href="https://montana-media-arts.github.io/120_CreativeCoding1-Fall2020/modules/week-9/overview/" target="_new">MART 120 Week 9</a>.   Here are examples in the following tabs.
+Remember, drawing simple shapes is the first thing that p5.js allows us to do quickly. You can do this using the p5.js editor or you an create a page a sketch file. If you need a refresher, please feel free to go back to <a href="https://montana-media-arts.github.io/120_CreativeCoding1-Fall2021/modules/week-9/overview/" target="_new">MART 120 Week 9</a>.   Here are examples in the following tabs.
 
 <div class="tab">
     <button class="tablinks active" onclick="openTab(event, 'Circle')">Circle</button>
@@ -170,8 +170,11 @@ This example places the first point on the line at x-coordinate 30 and y-coordin
 <div id="ToDo" class="tabcontent">
 <div class="tabhtml" markdown="1">
 
-Add different shapes to the draw method.
-
-<iframe src="https://editor.p5js.org/" width="100%" height="800px"></iframe>
+<p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="js,result" data-slug-hash="GRMwwpL" data-editable="true" data-user="retrog4m3r" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/retrog4m3r/pen/GRMwwpL">
+  p5.js Basic Shapes</a> by Michael Cassens (<a href="https://codepen.io/retrog4m3r">@retrog4m3r</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
 </div>
 </div>
