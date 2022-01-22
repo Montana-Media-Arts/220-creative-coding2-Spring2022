@@ -7,11 +7,11 @@ jotted: false
 # Working with Variables
 <div class="tab">
   <button class="tablinks active" onclick="openTab(event, 'Overview')">Overview</button>
-  <button class="tablinks" onclick="openTab(event, 'What')">To Do</button>
+  <button class="tablinks" onclick="openTab(event, 'ToDo')">To Do</button>
   
 </div>
 
-<div id="Overview" class="tabcontent" style="display:block"  >
+<div id="Overview" class="tabcontent" style="display:block" >
 <div class="tabhtml" markdown="1">
 So, how do we work with variables?
 
@@ -81,6 +81,7 @@ What happens?  Go to the next tab and try it out!
 
 </div>
 </div>
+
 <div id="ToDo" class="tabcontent" markdown="1">
 <div class="tabhtml" markdown="1">
 
