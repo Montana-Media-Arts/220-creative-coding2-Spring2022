@@ -26,18 +26,18 @@ Now that we know about Classes, Objects and Arrays, we can create animations.  F
 
 Keep in mind, this first example, doesn't use a class.  See how we use the preload to load the images and then display them. 
 
-<a href="https://github.com/Montana-Media-Arts/220_CreativeCoding2-Spring2021-Samples/blob/main/Week%204%20Animation%20Example%201.zip" target="_new">Animation Example 1</a>
+<a href="https://github.com/Montana-Media-Arts/220_CreativeCoding2-Spring2022-Samples/blob/main/Week%204%20Animation%20Example%201.zip" target="_new">Animation Example 1</a>
 
 Is there a way to slow down the animation?  Think about what you did last week.
 
 In this example, we take the original example and use the setInterval to slow things down.
 
-<a href="https://github.com/Montana-Media-Arts/220_CreativeCoding2-Spring2021-Samples/blob/main/Week%204%20Animation%20Example%202.zip" target="_new">Animation Example 2</a>
+<a href="https://github.com/Montana-Media-Arts/220_CreativeCoding2-Spring2022-Samples/blob/main/Week%204%20Animation%20Example%202.zip" target="_new">Animation Example 2</a>
 
 But we need to know how to use a class.  So, let's go back to original example and implement a class.
 
-<a href="https://github.com/Montana-Media-Arts/220_CreativeCoding2-Spring2021-Samples/blob/main/Week%204%20Animation%20Example%203.zip" target="_new">Animation Example 3</a>
+<a href="https://github.com/Montana-Media-Arts/220_CreativeCoding2-Spring2022-Samples/blob/main/Week%204%20Animation%20Example%203.zip" target="_new">Animation Example 3</a>
 
 Finally, we will take our class example and add the setInterval into it.
 
-<a href="https://github.com/Montana-Media-Arts/220_CreativeCoding2-Spring2021-Samples/blob/main/Week%204%20Animation%20Example%204.zip" target="_new">Animation Example 4</a>
+<a href="https://github.com/Montana-Media-Arts/220_CreativeCoding2-Spring2022-Samples/blob/main/Week%204%20Animation%20Example%204.zip" target="_new">Animation Example 4</a>
