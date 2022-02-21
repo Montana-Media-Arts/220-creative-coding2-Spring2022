@@ -17,7 +17,7 @@ This section will be dedicated to looking at implementation strategies for progr
 
 As the quote described above, a particle system is a collection of simple objects. We've already dealt with programming collections of objects before - like arrays of Movers that simulate bouncing balls. But for particle systems, our collections are more complex. The collections will range in size: sometimes there will be zero particles, sometimes ten, sometimes ten thousand.  The collections themselves will have behavior and properties, not just the particles they're made up of.
 
-<a href="https://www.khanacademy.org/computing/computer-programming/programming-natural-simulations/programming-particle-systems/a/intro-to-particle-systems" target="_new">Khan Academy</a> 
+<a href="https://www.khanacademy.org/computing/computer-programming/programming-natural-simulations/programming-particle-systems/a/intro-to-particle-systems" target="_blank">Khan Academy</a> 
 
 ### Coding Train
 
