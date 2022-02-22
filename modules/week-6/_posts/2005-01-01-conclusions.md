@@ -6,4 +6,4 @@ jotted: false
 
 # Conclusions
 
-This week we worked with the p5.play library which allowed us to create our animations in a new way and **hopefully** and easier way.  For sure, our collision is easier and next week, we will integrate particle systems into our project.
+This week we continued working on our projects and made progress toward that.
