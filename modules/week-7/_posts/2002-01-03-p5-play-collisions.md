@@ -1,6 +1,6 @@
 ---
 title: p5.play collisions 
-module: 6
+module: 7
 jotted: false
 ---
 
