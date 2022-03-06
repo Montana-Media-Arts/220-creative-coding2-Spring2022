@@ -1,6 +1,6 @@
 ---
 title: Review and Destroy
-module: 7
+module: 8
 jotted: false
 ---
 
