@@ -1,8 +1,8 @@
 ---
-title: Week 13 Conclusions
-module: 13
+title: Week 12 Conclusions
+module: 12
 ---
 
 # Conclusions
 
-So, this is just a primer on Augmented Reality. Pokemon Go really brought this technology into the forefront and I wonder how it will progress over time.
+This week was all about 3D printing and a little review of circuits.  Fun!  Next week, we will look more at 3D printing and see what other options are available as well as other creative coding ventures.  See you next week!
