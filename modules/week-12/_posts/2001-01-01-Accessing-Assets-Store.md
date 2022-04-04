@@ -18,4 +18,4 @@ One of the things of which I want you to be aware of is Unity's Asset store.  Th
 8. In the **Import Unity Package** dialog window, click **Import**.
 9. The importing process adds several different folders to the **Project** tab.
 
-<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/sOjMZ-7QpLE" frameborder="0" allowfullscreen></iframe></div>
+

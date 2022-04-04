@@ -35,4 +35,3 @@ What about making it move around?  That's where we add code. Lucky for us, we ge
 
 What about obstacles and collisions?
 
-<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/nLoLl-SYyvo" frameborder="0" allowfullscreen></iframe></div>

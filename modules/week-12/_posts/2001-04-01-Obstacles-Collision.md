@@ -32,4 +32,3 @@ Do the same thing.
 
 Now, run the project and see if you can make the ship collide with the obstacle.
 
-<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/RwI56bqprZ8" frameborder="0" allowfullscreen></iframe></div>

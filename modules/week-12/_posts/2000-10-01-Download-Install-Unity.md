@@ -36,6 +36,6 @@ Wait for the install and then click on Projects.
 3. In the **Project Name**, enter **Playground Fun** (or whatever you want)
 4. Click **Create**.
 
-<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/EMr9SArZ7Wc" frameborder="0" allowfullscreen></iframe></div>
+
 
 
