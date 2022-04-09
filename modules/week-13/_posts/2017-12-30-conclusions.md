@@ -1,6 +1,6 @@
 ---
-title: Week 12 Conclusions
-module: 12
+title: Conclusions
+module: 13
 ---
 
 # Conclusions
