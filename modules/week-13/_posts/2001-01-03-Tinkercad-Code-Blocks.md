@@ -10,7 +10,7 @@ TinkerCad also gives us the ability to use code to build 3D shapes and creations
 
 First, go to the following link.
 
-* <a href="https://www.tinkercad.com/dashboard?type=codeblocks&collection=designs" target="_new">TinkerCad Code Blocks</a>
+* <a href="https://www.tinkercad.com/dashboard?type=codeblocks&collection=designs" target="_blank">TinkerCad Code Blocks</a>
 
 Then, click on **Create New Code Block**.  When the dialog box appears, click on **Intro to Shapes** activities.
 

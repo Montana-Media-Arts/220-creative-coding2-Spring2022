@@ -13,7 +13,7 @@ TinkerCad is a part of AutoDesk, which is a powerful piece of software the engin
 
 First, you are going to join our class. I thought it would be more fun if we did this as a class.  
 
-* <a href="https://www.tinkercad.com/joinclass/QWDJAGTAEBDR" target="_new">Class link to TinkerCad</a>
+* <a href="https://www.tinkercad.com/joinclass/KP5P5W21FGGG" target="_blank">Class link to TinkerCad</a>
 * Sign in with your email address and you will be added to the classroom.
 
 
