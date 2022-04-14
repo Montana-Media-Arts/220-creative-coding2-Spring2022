@@ -34,31 +34,30 @@ jotted: true
 </ul>
 <p>Specific examples are as follows.</p>
 <ol>
-<li><a href="https://play.google.com/store/apps/details?id=com.google.android.stardroid&hl=" target="_new">Google Sky Map</a></li>
-<li><a href="https://apps.apple.com/us/app/ikea-place/id1279244498" target="_new">IKEA Catalog</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.google.android.stardroid&hl=" target="_blank">Google Sky Map</a></li>
+<li><a href="https://apps.apple.com/us/app/ikea-place/id1279244498" target="_blank">IKEA Catalog</a></li>
     <ul>
-    <li><a href="https://www.architectmagazine.com/technology/ikea-launches-augmented-reality-application_o" target="_new">Architect Magazine</a>
+    <li><a href="https://www.architectmagazine.com/technology/ikea-launches-augmented-reality-application_o" target="_blank">Architect Magazine</a>
     </li>
     </ul>
-<li><a href="https://www.pokemon.com/us/app/pokemon-go/" target="_new">Pokemon Go</a></li>
-<li><a href="https://www.bbc.co.uk/taster/pilots/civilisations-ar" target="_new">BBC Civilisations</a></li>
-<li><a href="http://www.inkhunter.tattoo/" target="_new">Ink Hunter</a></li>
-<li><a href="http://walla.me/" target="_new">WallaMe</a></li>
-<li><a href="https://www.wearvr.com/apps/knightfall-ar" target="_new">Knight Fall AR</a></li>
-<li><a href="https://justaline.withgoogle.com/" target="_new">Just a Line</a></li>
-<li><a href="https://www.ingress.com/game/" target="_new">Ingress Prime</a></li>
-<li><a href="https://www.reaktor-berlin.com/neyon-clash" target="_new">Neyon Clash</a></li>
-<li><a href="https://play.google.com/store/apps/details?id=fm.combo.dARkSubjectOne&hl=en" target="_new">dARk: Subject One (Android)</a></li>
-<li><a href="https://apps.apple.com/app/id1312987602" target="_new">dARk: Subject One (iOS)</a></li>
-<li><a href="https://play.google.com/store/apps/details?id=com.sixtostart.zombiesrunclient&hl=en" target="_new">Zombies, Run! (Android)</a></li>
-<li><a href="https://itunes.apple.com/app/id503519713" target="_new">Zombies, Run! (iOS)</a></li>
-<li><a href="https://play.google.com/store/apps/details?id=com.groundspeak.geocaching.intro&hl=en" target="_new">Geocaching (Android)</a></li>
-<li><a href="https://itunes.apple.com/app/id329541503" target="_new">Geocaching (iOS)</a></li>
+<li><a href="https://www.pokemon.com/us/app/pokemon-go/" target="_blank">Pokemon Go</a></li>
+<li><a href="https://www.bbc.co.uk/taster/pilots/civilisations-ar" target="_blank">BBC Civilisations</a></li>
+<li><a href="http://www.inkhunter.tattoo/" target="_blank">Ink Hunter</a></li>
+<li><a href="http://walla.me/" target="_blank">WallaMe</a></li>
+<li><a href="https://justaline.withgoogle.com/" target="_blank">Just a Line</a></li>
+<li><a href="https://www.ingress.com/game/" target="_blank">Ingress Prime</a></li>
+<li><a href="https://www.reaktor-berlin.com/neyon-clash" target="_blank">Neyon Clash</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=fm.combo.dARkSubjectOne&hl=en" target="_blank">dARk: Subject One (Android)</a></li>
+<li><a href="https://apps.apple.com/app/id1312987602" target="_blank">dARk: Subject One (iOS)</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.sixtostart.zombiesrunclient&hl=en" target="_blank">Zombies, Run! (Android)</a></li>
+<li><a href="https://itunes.apple.com/app/id503519713" target="_blank">Zombies, Run! (iOS)</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.groundspeak.geocaching.intro&hl=en" target="_blank">Geocaching (Android)</a></li>
+<li><a href="https://itunes.apple.com/app/id329541503" target="_blank">Geocaching (iOS)</a></li>
 </ol>
 
 <p>One that has gained a lot of popularity on iOS is Adobe Aero.</p>
 
-<a href="https://apps.apple.com/app/adobe-aero/id1401748913?ls=1&~tags=ios&~tags=adotcom&_branch_match_id=756997448203900990&utm_source=Adobe-web&utm_campaign=Try-2019-11-All&utm_medium=web-app" target="_new">Adobe Aero</a>
+<a href="https://apps.apple.com/app/adobe-aero/id1401748913?ls=1&~tags=ios&~tags=adotcom&_branch_match_id=756997448203900990&utm_source=Adobe-web&utm_campaign=Try-2019-11-All&utm_medium=web-app" target="_blank">Adobe Aero</a>
 
 <p>If you have an iOS device, I encourage you to try this out. You can add characters, give them functionality, and then record your screen.</p>
 
@@ -68,14 +67,14 @@ jotted: true
 
 <p>Another one that is out there for both devices is Google Expeditions.</p>
 
-<p><a href="https://play.google.com/store/apps/details?id=com.google.vr.expeditions" target="_new">Google Expeditions - Android</a></p>
+<p><a href="https://play.google.com/store/apps/details?id=com.google.vr.expeditions" target="_blank">Google Expeditions - Android</a></p>
 
-<p><a href="https://itunes.apple.com/us/app/expeditions/id1131711060" target="_new">Google Expeditions - iOS</a></p>
+<p><a href="https://itunes.apple.com/us/app/expeditions/id1131711060" target="_blank">Google Expeditions - iOS</a></p>
 
 <p>Another mobile AR app is called Sketch AR, which allows you to take existing photographs and make them into an AR experience, or you can draw something and transform it into an AR Experience.</p>
 
-<p><a href="https://play.google.com/store/apps/details?id=ktech.sketchar" target="_new">SketchAR - Android</a></p>
+<p><a href="https://play.google.com/store/apps/details?id=ktech.sketchar" target="_blank">SketchAR - Android</a></p>
 
-<p><a href="https://itunes.apple.com/us/app/sketchar-drawing-using-augmented-reality/id1221482822?l=ru&ls=1&mt=8" target="_new">SketchAR - iOS</a></p>
+<p><a href="https://itunes.apple.com/us/app/sketchar-drawing-using-augmented-reality/id1221482822?l=ru&ls=1&mt=8" target="_blank">SketchAR - iOS</a></p>
 
 </div>
