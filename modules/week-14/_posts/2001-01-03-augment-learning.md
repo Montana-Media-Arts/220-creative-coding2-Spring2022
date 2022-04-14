@@ -13,6 +13,6 @@ One of things we can do is create AR applications that teach others about differ
 
 <p>We are going to use this application to build something to teach someone else something using AR.  Here are the links to Android and iOS.</p>
 
-<p><a href="https://apps.apple.com/ae/app/creator-avr/id1080561890" target="_new">iOS</a></p>
+<p><a href="https://apps.apple.com/ae/app/creator-avr/id1080561890" target="_blank">iOS</a></p>
 
-<p><a href="https://play.google.com/store/apps/details?id=com.eonreality.eoncreatoravr&hl=en_US" target="_new">Android</a></p>
+<p><a href="https://play.google.com/store/apps/details?id=com.eonreality.eoncreatoravr&hl=en_US" target="_blank">Android</a></p>
