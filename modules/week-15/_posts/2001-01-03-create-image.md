@@ -1,6 +1,6 @@
 ---
 title: Create an Image
-module: 14
+module: 15
 jotted: true
 ---
 

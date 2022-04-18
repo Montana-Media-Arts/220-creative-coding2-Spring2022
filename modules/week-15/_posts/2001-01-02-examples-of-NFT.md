@@ -1,6 +1,6 @@
 ---
 title: Examples of NFT
-module: 14
+module: 15
 jotted: true
 ---
 
